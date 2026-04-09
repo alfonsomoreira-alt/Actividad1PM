@@ -55,7 +55,7 @@ class _LoginPageState extends State<LoginPage> {
             // ✅ IMAGEN CORREGIDA
             const CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage("assets/images/suarez.jpg"),
+              backgroundImage: AssetImage("assets/imagens/suarez.jpg"),
             ),
 
             const SizedBox(height: 30),
